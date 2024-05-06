@@ -1,4 +1,4 @@
-# Tutorial 9 - Advanced Programming - Timer
+# Tutorial 10 - Advanced Programming - Timer
 **William - 2206083432 - C**
 
 ### 1.2. Understanding how it works
